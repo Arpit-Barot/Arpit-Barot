@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Arpit Barot👋
 
-<!--
-**Arpit-Barot/Arpit-Barot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3 Year IT Diploma Graduate (India
+🎓 2 Year IT Diploma Graduate (Canada)
+☁️ Aspiring AWS / Cloud Support Engineer  
+🛠 Learning AWS, Linux, Networking  
+🇨🇦 Based in Canada  
 
-Here are some ideas to get you started:
+### Current Focus
+- Cloud fundamentals (AWS)
+- Linux basics
+- IT support skills
+- Hands-on projects (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goal
+Secure an entry-level Cloud / IT role in Canada
